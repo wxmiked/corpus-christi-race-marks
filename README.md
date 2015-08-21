@@ -2,7 +2,7 @@
 GPS coordinates for sailing race markers for the Corpus Christi, Texas sailboat racing area.
 
 ## Please help
-Please consider creating a similar GitHub repository for your local sailing area if one does not already exist. Visiting sailors well have the pleasure of knowing where they are going in their first race, and the locals will look like they know what they are doing too.
+Please consider creating a similar GitHub repository for your local sailing area if one does not already exist. Visiting sailors will have the pleasure of knowing where they are going in their first race, and the locals will look like they know what they are doing too.
 
 ## Source
 These mark coordinates were found on the Corpus Christi Midget Ocean Racing Fleet (CCMORF) [website](http://ccmorf.org/) in this [handy PDF](https://ccmorf.files.wordpress.com/2011/12/2-1-10-ccyc-bay-race-map-and-chart.pdf)(downloaded 2015-07-17) that lists distance and bearing for all combinations of the different race marks.
@@ -19,4 +19,4 @@ If you are using Linux, you can easily upload the GPX file to your Garmin GPS us
 ```sudo gpsbabel -D9 -i gpx -f $1 -o garmin -F usb:```
 
 ## Updates
-If you want a new mark added or an old one updated, please either [issue a pull request](http://yangsu.github.io/pull-request-tutorial/) from your forked GitHub repository (preferred) or create a support ticket at [Sail Tactics](http://www.sailtactics.com/support).
+If you want a new mark added or an old one updated, please either [issue a pull request](http://yangsu.github.io/pull-request-tutorial/) from your forked GitHub repository (preferred) or create a [new issue](https://github.com/sailorsenergy/corpus-christi-race-marks/issues) in this repository.
