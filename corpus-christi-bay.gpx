@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2015-08-21T21:03:33Z</time>
+<bounds minlat="27.701100000" minlon="-97.388300000" maxlat="27.809700000" maxlon="-97.218700000"/>
+<wpt lat="27.792600000" lon="-97.388300000">
+  <name>CCB-THEAD</name>
+  <cmt>RACE COMMITTEE STARTING LINE MARK ON T-HEAD</cmt>
+  <desc>RACE COMMITTEE STARTING LINE MARK ON T-HEAD</desc>
+</wpt>
+<wpt lat="27.800000000" lon="-97.386300000">
+  <name>CCB-GAP</name>
+  <cmt>APPROX. MID POINT OF RED &amp; GREEN DAY MARKS FI G 2.5S 17ft 3M &apos;1&apos; AND FI R 2.5s 17ft 3M &apos;2&apos;</cmt>
+  <desc>APPROX. MID POINT OF RED &amp; GREEN DAY MARKS FI G 2.5S 17ft 3M &apos;1&apos; AND FI R 2.5s 17ft 3M &apos;2&apos;</desc>
+</wpt>
+<wpt lat="27.790200000" lon="-97.378300000">
+  <name>CCB-01</name>
+  <cmt>RED DAY MARK FI R 4s 17ft 4M</cmt>
+  <desc>RED DAY MARK FI R 4s 17ft 4M</desc>
+</wpt>
+<wpt lat="27.790100000" lon="-97.364400000">
+  <name>CCB-02</name>
+  <cmt>MIDWAY BETWEEN 2 LIGHTED WELL HEADS ( FI 1s ) 61-1 &amp; 71-1</cmt>
+  <desc>MIDWAY BETWEEN 2 LIGHTED WELL HEADS ( FI 1s ) 61-1 &amp; 71-1</desc>
+</wpt>
+<wpt lat="27.765600000" lon="-97.353000000">
+  <name>CCB-03</name>
+  <cmt>RED/WHITE DIAMOND DAY MARK FI R 2.5s 17ft 3M &apos;2&apos;</cmt>
+  <desc>RED/WHITE DIAMOND DAY MARK FI R 2.5s 17ft 3M &apos;2&apos;</desc>
+</wpt>
+<wpt lat="27.790000000" lon="-97.316700000">
+  <name>CCB-04</name>
+  <cmt>LIGHTED WELL HEAD ( FI 1s ) SABCO #1 St Tr 54</cmt>
+  <desc>LIGHTED WELL HEAD ( FI 1s ) SABCO #1 St Tr 54</desc>
+</wpt>
+<wpt lat="27.779000000" lon="-97.333600000">
+  <name>CCB-05</name>
+  <cmt>SEPARATOR PLATFORM FOR PETROHUNT 72-1</cmt>
+  <desc>SEPARATOR PLATFORM FOR PETROHUNT 72-1</desc>
+</wpt>
+<wpt lat="27.769300000" lon="-97.317600000">
+  <name>CCB-06</name>
+  <cmt>LIGHTED WELL HEAD ( FI 1s ) SABCO 53 #7</cmt>
+  <desc>LIGHTED WELL HEAD ( FI 1s ) SABCO 53 #7</desc>
+</wpt>
+<wpt lat="27.805000000" lon="-97.268300000">
+  <name>CCB-07</name>
+  <cmt>CUT &apos;A&apos; WEST HIGH RANGE(INBOUND) Iso G 6s 65ft (LIGHT NOT VISIBLE ALL AROUND)</cmt>
+  <desc>CUT &apos;A&apos; WEST HIGH RANGE(INBOUND) Iso G 6s 65ft (LIGHT NOT VISIBLE ALL AROUND)</desc>
+</wpt>
+<wpt lat="27.769100000" lon="-97.334500000">
+  <name>CCB-55</name>
+  <cmt>LIGHTED WELL HEAD ( Fl 1s ) SABCO ST 55 #8</cmt>
+  <desc>LIGHTED WELL HEAD ( Fl 1s ) SABCO ST 55 #8</desc>
+</wpt>
+<wpt lat="27.758700000" lon="-97.306700000">
+  <name>CCB-52</name>
+  <cmt>LIGHTED WELL HEAD ( Fl 1s ) SABCO ST 52 #7</cmt>
+  <desc>LIGHTED WELL HEAD ( Fl 1s ) SABCO ST 52 #7</desc>
+</wpt>
+<wpt lat="27.807300000" lon="-97.364600000">
+  <name>CCB-10</name>
+  <cmt>HIGH RANGE BRIDGE (OUTBOUND) Iso G 6s 42ft (LIGHT NOT VISIBLE ALL AROUND)</cmt>
+  <desc>HIGH RANGE BRIDGE (OUTBOUND) Iso G 6s 42ft (LIGHT NOT VISIBLE ALL AROUND)</desc>
+</wpt>
+<wpt lat="27.768700000" lon="-97.349000000">
+  <name>CCB-71</name>
+  <cmt>LIGHTED WELL HEAD ( Fl 1s ) SABCO ST 71 #1</cmt>
+  <desc>LIGHTED WELL HEAD ( Fl 1s ) SABCO ST 71 #1</desc>
+</wpt>
+<wpt lat="27.701100000" lon="-97.252700000">
+  <name>CCB-NASPIER</name>
+  <cmt>END OF FISHING PIER 9 feet depth</cmt>
+  <desc>END OF FISHING PIER 9 feet depth</desc>
+</wpt>
+<wpt lat="27.718300000" lon="-97.218700000">
+  <name>CCB-12</name>
+  <cmt>WHITE OCTAGON DAY MARK(LIGHTED) &apos;C&apos; Mo(A) Ra Ref</cmt>
+  <desc>WHITE OCTAGON DAY MARK(LIGHTED) &apos;C&apos; Mo(A) Ra Ref</desc>
+</wpt>
+<wpt lat="27.790500000" lon="-97.340800000">
+  <name>CCB-19</name>
+  <cmt>LIGHTED RED WELL HEAD ( FI 1s ) NO NAME</cmt>
+  <desc>LIGHTED RED WELL HEAD ( FI 1s ) NO NAME</desc>
+</wpt>
+<wpt lat="27.774100000" lon="-97.307800000">
+  <name>CCB-20</name>
+  <cmt>LIGHTED WELL HEAD ( FI 1s ) SABCO ST 53 #6</cmt>
+  <desc>LIGHTED WELL HEAD ( FI 1s ) SABCO ST 53 #6</desc>
+</wpt>
+<wpt lat="27.809700000" lon="-97.236500000">
+  <name>CCB-43</name>
+  <cmt>CC SHIP CHANNEL GREEN DAY MARK Q G 17ft 3M &apos;43&apos; (SAFE CHANNEL ENTRY POINT) Ra Ref</cmt>
+  <desc>CC SHIP CHANNEL GREEN DAY MARK Q G 17ft 3M &apos;43&apos; (SAFE CHANNEL ENTRY POINT) Ra Ref</desc>
+</wpt>
+</gpx>
